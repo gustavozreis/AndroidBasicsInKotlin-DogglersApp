@@ -1,4 +1,4 @@
-#Mon Jan 03 18:39:50 BRT 2022
+#Mon Jan 03 19:23:40 BRT 2022
 base.1=C\:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
