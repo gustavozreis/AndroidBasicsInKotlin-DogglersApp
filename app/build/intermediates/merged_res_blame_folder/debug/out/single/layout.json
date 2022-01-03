@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_vertical_list.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vertical_horizontal_list_item.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_list_item.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_grid_list.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\activity_grid_list.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_horizontal_list.xml",
+        "source": "C:\\ANDROIDDEVCERTIFICATION\\DogglersProject\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+    }
+]
