@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ANDROIDDEVCERTIFICATION/DogglersProject/app/src/main/res/layout/activity_horizontal_list.xml" value="0.13541666666666666" />
+        <entry key="..\:/ANDROIDDEVCERTIFICATION/DogglersProject/app/src/main/res/layout/activity_vertical_list.xml" value="0.13541666666666666" />
         <entry key="..\:/ANDROIDDEVCERTIFICATION/DogglersProject/app/src/main/res/layout/grid_list_item.xml" value="0.12952898550724637" />
         <entry key="..\:/ANDROIDDEVCERTIFICATION/DogglersProject/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.1" />
       </map>
